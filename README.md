@@ -1,5 +1,5 @@
 - 👋 Hi!, I’m Elikplim Kudowor😎😎
-- 👀 I’m passionate about Software Engineering, and love the Object-Oriented paradigm
+- 👀 I’m passionate about software engineering, and love the object-oriented paradigm
 - 🌱 I’m currently interested in mobile-cross-platform frameworks like Flutter💥🖤
 - 💞️ I’m looking to collaborate on Flutter projects🙂
 - 📫 You can reach me on elikplimkudowor@gmail.com
