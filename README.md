@@ -1,5 +1,5 @@
-GitHub Profile README.md Draft<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/[YOUR_GITHUB_USER_ID]?v=4" width="150px" alt="Your Profile Picture">
+
+  <img src="https://avatars.githubusercontent.com/u/Hou-dini?v=4" width="150px" alt="Your Profile Picture">
   <h1>Hi there, I'm Elikplim Kudowor! 👋</h1>
   <p>A passionate Software Engineer with a strong focus on building robust, scalable, and maintainable systems.</p>
 </div>
@@ -8,7 +8,7 @@ GitHub Profile README.md Draft<div align="center">
 
 ### 🚀 About Me
 
-I thrive on transforming complex architectural designs into elegant, high-performance code. My expertise lies in crafting clean, modular, and testable solutions that stand the test of time. I'm particularly enthusiastic about:
+As a highly analytical and intuitive Systems Architect, I am passionate about conceptualizing, designing, and documenting scalable, maintainable, and robust software solutions. My core drive is to transform complex client requirements into elegant, efficient, and future-proof architectural designs that streamline execution and deliver tangible value. I am particularly eager to partner with forward-thinking teams to contribute innovative design thinking to diverse client-facing projects. I'm particularly enthusiastic about:
 
 * **Software Architecture & System Design**
 * **Clean Code & Domain-Driven Design (DDD)**
@@ -16,7 +16,7 @@ I thrive on transforming complex architectural designs into elegant, high-perfor
 * **Reactive Programming**
 * **Dart & Flutter Development**
 
-I believe in the power of well-structured code to solve real-world problems and am constantly exploring new ways to build efficient and resilient software.
+I believe in the power of well-architected systems to solve real-world problems and am constantly exploring new ways to design and build efficient and resilient software.
 
 ---
 
@@ -36,8 +36,6 @@ You can explore the DIL MVI in detail here:
 ### 🛠️ My Tech Stack
 
 | Category         | Technologies     
-
-```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hou-dini&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
