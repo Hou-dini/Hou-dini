@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-As a highly analytical and intuitive Systems Architect, I am passionate about conceptualizing, designing, and documenting scalable, maintainable, and robust software solutions. My core drive is to transform complex client requirements into elegant, efficient, and future-proof architectural designs that streamline execution and deliver tangible value. I am particularly eager to partner with forward-thinking teams to contribute innovative design thinking to diverse client-facing projects. I'm particularly enthusiastic about:
+As a highly analytical and intuitive Software Architect, I am passionate about conceptualizing, designing, and documenting scalable, maintainable, and robust software solutions. My core drive is to transform complex client requirements into elegant, efficient, and future-proof architectural designs that streamline execution and deliver tangible value. I am particularly eager to partner with forward-thinking teams to contribute innovative design thinking to diverse client-facing projects. I'm particularly enthusiastic about:
 
 * **Software Architecture & System Design**
 * **Clean Code & Domain-Driven Design (DDD)**
