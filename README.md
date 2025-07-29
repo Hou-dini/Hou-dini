@@ -1,6 +1,6 @@
 
   <img src="https://avatars.githubusercontent.com/u/93808442?v=4" width="100px" height="100px" alt="Your Profile Picture">
-  <h1>Hi there, I'm Elikplim Kudowor! 👋</h1>
+  <h1>Hi there, I'm Eli! 👋</h1>
   <p>A passionate Software Engineer with a strong focus on designing and building robust, scalable, and maintainable systems.</p>
 </div>
 
