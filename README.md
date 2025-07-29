@@ -35,19 +35,26 @@ You can explore the DIL MVI in detail here:
 
 ### 🛠️ My Tech Stack
   
-* Architectural Design: Systems Design, Software Architecture, SOLID Principles, API Design, Event-Driven Architecture, Domain-Driven Design, Error Handling & Logging, Inteface-Based Design, Design Patterns.
-* Programming Languages: Dart, Java.
-* Frameworks & Libraries: Flutter, Rive, Atlas Device SDK, GetIt, Just_Audio, Bloc, Provider, GoRouter.
-* Tools & Platforms: Git, Android Studio, Firebase (Firestore, Auth), Firebase Studio, Modelio, UML.
-* UI/UX: UI Prototyping, User Interface Design, Dynamic Animations (Rive), Visual Design & Editing (Photoshop).
-* Professional & Transferable Skills: Systems Thinking, Analytical Problem-Solving, Critical Thinking, Requirements Elicitation, Client Engagement, Project Leadership, Resource Management, Techinical Documentation, Written & Verbal Communication, Organizational Strategy, Financial Reporting.
+* Architectural Design: Systems Design, Software Architecture, SOLID Principles, API Design, Event-Driven Architecture, Domain-Driven Design, Error Handling & Logging, Inteface-Based Design, Design Patterns
+* Programming Languages: Dart
+* Frameworks & Libraries: Flutter, Rive, Atlas Device SDK, GetIt, Just_Audio, Bloc, Provider, GoRouter
+* Tools & Platforms: Git, Android Studio, Firebase (Firestore, Auth), Firebase Studio, Modelio, UML
+* UI/UX: UI Prototyping, User Interface Design, Dynamic Animations (Rive), Visual Design & Editing (Photoshop)
+* Professional & Transferable Skills: Systems Thinking, Analytical Problem-Solving, Critical Thinking, Requirements Elicitation, Client Engagement, Project Leadership, Resource Management, Techinical Documentation, Written & Verbal Communication, Organizational Strategy, Financial Reporting
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hou-dini&repo=cosmos-media-mvi)](https://github.com/Hou-dini/cosmos-media-mvi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hou-dini&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hou-dini&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hou-dini" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hou-dini&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hou-dini&show_icons=true&theme=transparent)](https://github.com/Hou-dini)
 
 <!---
 Hou-dini/Hou-dini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
