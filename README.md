@@ -31,7 +31,7 @@ I'm currently immersed in **a Media Intelligence Data Ingestion Pipeline**, a pr
   * **Persists to the Cloud:** Stores clean, structured data in a cloud-hosted PostgreSQL database.
 
 You can explore the project in detail here:
-➡️ [**[Project Name] Repository**](https://www.google.com/search?q=https://github.com/YourGitHubUsername/YourProjectRepository)
+➡️ [**Ingestion Engine Repository**](https://github.com/Hou-dini/ingestion-engine)
 
 -----
 
@@ -47,7 +47,7 @@ You can explore the project in detail here:
 
 -----
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hou-dini&repo=ingestion-engine)](https://github.com/Hou-dini/ingestion-engine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hou-dini&repo=cosmos-media-mvi)](https://github.com/Hou-dini/cosmos-media-mvi)
 
 -----
@@ -62,7 +62,7 @@ You can explore the project in detail here:
 
 <a href="https://github.com/anuraghazra/convoychat">
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hou-dini&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hou-dini&layout=compact&langs_count=10&card_width=320" />
 
 </a>
 
