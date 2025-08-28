@@ -1,61 +1,68 @@
+ <img src="https://avatars.githubusercontent.com/u/93808442?v=4" width="100px" height="100px" alt="Your Profile Picture">
 
-  <img src="https://avatars.githubusercontent.com/u/93808442?v=4" width="100px" height="100px" alt="Your Profile Picture">
-  <h1>Hi there, I'm Eli! 👋</h1>
-  <p>A passionate Software Engineer with a strong focus on designing and building robust, scalable, and maintainable systems.</p>
-</div>
+  <h1> Hi there, I'm Eli! 👋 </h1>
 
----
+A passionate engineer with a strong focus on designing and building robust, scalable, and maintainable **data pipelines**.
+
+
+-----
 
 ### 🚀 About Me
 
-As a highly analytical and intuitive Software Engineer, I am passionate about conceptualizing, designing, and documenting scalable, maintainable, and robust software solutions. My core drive is to transform complex client requirements into elegant, efficient, and future-proof architectural designs that streamline execution and deliver tangible value. I am particularly eager to partner with forward-thinking teams to contribute innovative design thinking to diverse client-facing projects. I'm particularly enthusiastic about:
+As a highly analytical and problem-solving engineer, I am passionate about turning raw data into valuable, actionable insights. My core drive is to transform complex data challenges into elegant, efficient, and future-proof architectural designs that streamline data flow and deliver tangible value. I am particularly enthusiastic about:
 
-* **Software Architecture & System Design**
-* **Clean Code & Domain-Driven Design (DDD)**
-* **Data Pipelines & Data Ingestion**
-* **Reactive Programming**
-* **Dart & Flutter Development**
+  * **Data Engineering & ETL Pipelines**
+  * **Backend Development & API Integration**
+  * **Asynchronous Programming**
+  * **Python & Cloud Technologies**
+  * **Systems Design & Scalable Architecture**
 
-I believe in the power of well-architected systems to solve real-world problems and am constantly exploring new ways to design and build efficient and resilient software.
+I believe in the power of well-architected data systems to solve real-world problems and am constantly exploring new ways to design and build efficient and resilient software.
 
----
+-----
 
 ### 🌱 What I'm Currently Working On
 
-I'm currently immersed in **Cosmos Media**, a project dedicated to building a flexible and powerful media platform. My recent focus has been on the **Data Ingestion Layer (DIL)**, where I've successfully implemented a Minimum Viable Implementation (MVI) that demonstrates:
+I'm currently immersed in **a Media Intelligence Data Ingestion Pipeline**, a project dedicated to building a flexible and powerful backend for media data. My recent focus has been on the **Data Ingestion Layer**, where I've implemented a system that:
 
-* **Modular Data Flow:** Seamlessly processing raw media from local sources.
-* **Robust Error Handling:** Gracefully managing unsupported formats and pipeline issues.
-* **Scalable Architecture:** Designed for easy expansion to new media types and import sources.
+  * **Ingests data from APIs:** Collects and processes data from external sources using a modular, extensible approach.
+  * **Uses Asynchronous Programming:** Leverages `asyncio` for highly efficient and concurrent data retrieval.
+  * **Ensures Data Integrity:** Employs an idempotent loading strategy to prevent data duplication.
+  * **Persists to the Cloud:** Stores clean, structured data in a cloud-hosted PostgreSQL database.
 
-You can explore the DIL MVI in detail here:
-➡️ [**Cosmos Media DIL MVI Repository**](https://github.com/Hou-dini/cosmos-media-mvi)
+You can explore the project in detail here:
+➡️ [**[Project Name] Repository**](https://www.google.com/search?q=https://github.com/YourGitHubUsername/YourProjectRepository)
 
----
+-----
 
 ### 🛠️ My Tech Stack
-  
-* Architectural Design: Systems Design, Software Architecture, SOLID Principles, API Design, Event-Driven Architecture, Domain-Driven Design, Error Handling & Logging, Inteface-Based Design, Design Patterns
-* Programming Languages: Dart
-* Frameworks & Libraries: Flutter, Rive, Atlas Device SDK, GetIt, Just_Audio, Bloc, Provider, GoRouter
-* Tools & Platforms: Git, Android Studio, Firebase (Firestore, Auth), Firebase Studio, Modelio, UML
-* UI/UX: UI Prototyping, User Interface Design, Dynamic Animations (Rive), Visual Design & Editing (Photoshop)
-* Professional & Transferable Skills: Systems Thinking, Analytical Problem-Solving, Critical Thinking, Requirements Elicitation, Client Engagement, Project Leadership, Resource Management, Techinical Documentation, Written & Verbal Communication, Organizational Strategy, Financial Reporting
 
----
+  
+
+  * **Data Engineering:** Data Ingestion, ETL/ELT, Data Modeling, API Integration, Asynchronous Programming
+  * **Programming Languages:** Python, Dart
+  * **Frameworks & Libraries:** Python (`asyncio`, `asyncpg`, `AsyncPraw`, `aiohttp`), Dart (`Flutter`, `Bloc`, `Provider`)
+  * **Tools & Platforms:** Git, Docker, Google Cloud (Cloud SQL, Cloud Storage), Firebase (Firestore, Auth), UML
+  * **Professional Skills:** Systems Thinking, Analytical Problem-Solving, Critical Thinking, Technical Documentation, Written & Verbal Communication
+
+-----
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hou-dini&repo=cosmos-media-mvi)](https://github.com/Hou-dini/cosmos-media-mvi)
 
----
+-----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hou-dini&show_icons=true&theme=transparent" />
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hou-dini&show_icons=true&theme=transparent" />
+
 </a>
+
+-----
+
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hou-dini&layout=compact&langs_count=8&card_width=320" />
+
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hou-dini&layout=compact&langs_count=8&card_width=320" />
+
 </a>
 
-
-<!---
-Hou-dini/Hou-dini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
