@@ -50,13 +50,6 @@ You can explore the project in detail here:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hou-dini&repo=ingestion-engine)](https://github.com/Hou-dini/ingestion-engine)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hou-dini&repo=cosmos-media-mvi)](https://github.com/Hou-dini/cosmos-media-mvi)
 
------
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Hou-dini&show_icons=true&theme=transparent" />
-
-</a>
 
 -----
 
