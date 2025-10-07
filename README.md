@@ -40,9 +40,9 @@ You can explore the project in detail here:
   
 
   * **Data Engineering:** Data Ingestion, ETL/ELT, Data Modeling, API Integration, Asynchronous Programming
-  * **Programming Languages:** Python, Dart
-  * **Frameworks & Libraries:** Python (`asyncio`, `asyncpg`, `AsyncPraw`, `aiohttp`), Dart (`Flutter`, `Bloc`, `Provider`)
-  * **Tools & Platforms:** Git, Docker, Google Cloud (Cloud SQL, Cloud Storage), Firebase (Firestore, Auth), UML
+  * **Programming Languages:** Python, Dart, SQL
+  * **Frameworks & Libraries:** Python (`pandas`, `pymongo`,`asyncio`, `asyncpg`, `AsyncPraw`, `aiohttp`), Dart (`Flutter`, `Bloc`, `Provider`)
+  * **Tools & Platforms:** Git, MongoDB, PostgreSQL, UML
   * **Professional Skills:** Systems Thinking, Analytical Problem-Solving, Critical Thinking, Technical Documentation, Written & Verbal Communication
 
 -----
