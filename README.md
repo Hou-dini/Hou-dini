@@ -34,7 +34,13 @@ I am currently building a **Local Trade Reasoning Engine** that serves as a flag
 * **Adversarial Logic:** Developing a "Risk Simulation Agent" to veto setups based on market regime shifts.
 * **Observability:** Implementing deep-trace logging to audit agentic "thought processes" in real-time.
 
-**Previous Highlight:** [**Kognia AI**](https://github.com/Hou-dini/kognia_backend) — A hierarchical MAS framework for autonomous data synthesis and strategic evaluation.
+---
+
+### 🏆 Portfolio Highlight: Kognia AI
+**Kognia AI** is a hierarchical MAS framework for autonomous data synthesis and strategic evaluation. It serves as the core proof-of-concept for my Nexus-Specialist architecture.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Kognia_AI-blue?style=for-the-badge&logo=vercel)](https://kognia-ui.vercel.app)
+➡️ [**Source Code**](https://github.com/Hou-dini/kognia_backend)
 
 ---
 
