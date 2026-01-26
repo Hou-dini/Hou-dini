@@ -21,8 +21,8 @@ I don’t just build "AI wrappers." I architect **Hierarchical Multi-Agent Syste
 
 I specialize in designing systems where specialized agents collaborate under a central orchestrator. Below is the blueprint I use for **Autonomous Trade Reasoning**:
 
-![Nexus-Specialist Architecture](https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/nexus_specialist_diagram.png) 
-*(Note: Upload the diagram to your profile repository and link it here)*
+![Nexus-Specialist Architecture](https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/Gemini_Generated_Image_s5h5las5h5las5h5.png) 
+
 
 ---
 
@@ -34,7 +34,7 @@ I am currently building a **Local Trade Reasoning Engine** that serves as a flag
 * **Adversarial Logic:** Developing a "Risk Simulation Agent" to veto setups based on market regime shifts.
 * **Observability:** Implementing deep-trace logging to audit agentic "thought processes" in real-time.
 
-**Previous Highlight:** [**Kognia AI**](https://github.com/Hou-dini/kognia) — A hierarchical MAS framework for autonomous data synthesis and strategic evaluation.
+**Previous Highlight:** [**Kognia AI**](https://github.com/Hou-dini/kognia_backend) — A hierarchical MAS framework for autonomous data synthesis and strategic evaluation.
 
 ---
 
