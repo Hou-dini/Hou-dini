@@ -1,61 +1,61 @@
- <img src="https://avatars.githubusercontent.com/u/93808442?v=4" width="100px" height="100px" alt="Your Profile Picture">
+# Hi there, I'm Eli! 👋
 
-  <h1> Hi there, I'm Eli! 👋 </h1>
+### Agent Architect | Software Engineer | Multi-Agent Systems (MAS) Specialist
 
-A passionate engineer with a strong focus on designing and building robust, scalable, and maintainable **data pipelines**.
+I transform manual strategies into autonomous multi-agent systems. With a background in **Software Engineering** and **Professional Forex Trading**, I bridge the gap between high-stakes financial intuition and autonomous machine reasoning.
 
+---
 
------
+### 🚀 The Mission: From Data Pipelines to Agentic Alpha
 
-### 🚀 About Me
+I don’t just build "AI wrappers." I architect **Hierarchical Multi-Agent Systems** that reason, plan, and execute. My core focus is solving the **fragility** of traditional algorithmic systems by applying modular task decomposition and adversarial risk-checking.
 
-As a highly analytical and problem-solving engineer, I am passionate about turning raw data into valuable, actionable insights. My core drive is to transform complex data challenges into elegant, efficient, and future-proof architectural designs that streamline data flow and deliver tangible value. I am particularly enthusiastic about:
+**My Architectural Philosophy:**
+* **Decoupled Reasoning:** Utilizing the **Nexus-Specialist** pattern to prevent LLM hallucinations.
+* **Grounded Execution:** Ensuring every agentic decision is backed by verifiable real-time data.
+* **Adversarial Rigor:** Implementing "Red-Team" agents to stress-test trade theses before capital is deployed.
 
-  * **Data Engineering & ETL Pipelines**
-  * **Backend Development & API Integration**
-  * **Asynchronous Programming**
-  * **Python & Cloud Technologies**
-  * **Systems Design & Scalable Architecture**
+---
 
-I believe in the power of well-architected data systems to solve real-world problems and am constantly exploring new ways to design and build efficient and resilient software.
+### 📊 Featured Architecture: The Nexus-Specialist Engine
 
------
+I specialize in designing systems where specialized agents collaborate under a central orchestrator. Below is the blueprint I use for **Autonomous Trade Reasoning**:
 
-### 🌱 What I'm Currently Working On
+![Nexus-Specialist Architecture](https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/nexus_specialist_diagram.png) 
+*(Note: Upload the diagram to your profile repository and link it here)*
 
-I'm currently immersed in **a Media Intelligence Data Ingestion Pipeline**, a project dedicated to building a flexible and powerful backend for media data. My recent focus has been on the **Data Ingestion Layer**, where I've implemented a system that:
+---
 
-  * **Ingests data from APIs:** Collects and processes data from external sources using a modular, extensible approach.
-  * **Uses Asynchronous Programming:** Leverages `asyncio` for highly efficient and concurrent data retrieval.
-  * **Ensures Data Integrity:** Employs an idempotent loading strategy to prevent data duplication.
-  * **Persists to the Cloud:** Stores clean, structured data in a cloud-hosted PostgreSQL database.
+### 🌱 Current Focus: The "Virtual Trading Desk"
 
-You can explore the project in detail here:
-➡️ [**Ingestion Engine Repository**](https://github.com/Hou-dini/ingestion-engine)
+I am currently building a **Local Trade Reasoning Engine** that serves as a flagship proof-of-concept for my financial agentic frameworks.
 
------
+* **Orchestration:** Engineering complex delegation loops with **Google ADK**.
+* **Adversarial Logic:** Developing a "Risk Simulation Agent" to veto setups based on market regime shifts.
+* **Observability:** Implementing deep-trace logging to audit agentic "thought processes" in real-time.
 
-### 🛠️ My Tech Stack
+**Previous Highlight:** [**Kognia AI**](https://github.com/Hou-dini/kognia) — A hierarchical MAS framework for autonomous data synthesis and strategic evaluation.
 
-  
+---
 
-  * **Data Engineering:** Data Ingestion, ETL/ELT, Data Modeling, API Integration, Asynchronous Programming
-  * **Programming Languages:** Python, Dart, SQL
-  * **Frameworks & Libraries:** Python (`pandas`, `pymongo`,`asyncio`, `asyncpg`, `AsyncPraw`, `aiohttp`), Dart (`Flutter`, `Bloc`, `Provider`)
-  * **Tools & Platforms:** Git, MongoDB, PostgreSQL, UML
-  * **Professional Skills:** Systems Thinking, Analytical Problem-Solving, Critical Thinking, Technical Documentation, Written & Verbal Communication
+### 🛠️ The Agentic Stack
 
------
+* **Agentic Frameworks:** Google ADK (Agent Development Kit), Hierarchical Orchestration, A2A Communication Protocols.
+* **Reasoning & Logic:** Structured Output (Pydantic), Tool-Use (Function Calling), RAG Architecture, Long-Context Memory Management.
+* **Data & Backend:** Python (`FastAPI`, `asyncio`, `pandas`, `numpy`), SQL (PostgreSQL), NoSQL (MongoDB), REST/WebSocket API Integration.
+* **Observability:** Agent Evaluation, Technical Documentation, Systems Thinking.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hou-dini&repo=ingestion-engine)](https://github.com/Hou-dini/ingestion-engine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hou-dini&repo=cosmos-media-mvi)](https://github.com/Hou-dini/cosmos-media-mvi)
+---
 
+### ⚡ Contact & Collaboration
 
------
+I am open to collaborating on **Agentic Finance (Fin-Agent)** projects or building bespoke autonomous workflows for prop firms and private funds.
 
-<a href="https://github.com/anuraghazra/convoychat">
+📫 **Email:** elikplimkudowor@gmail.com
+🔗 **LinkedIn:** [linkedin.com/in/elikplim-kudowor](https://www.linkedin.com/in/elikplim-kudowor)
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hou-dini&layout=compact&langs_count=10&card_width=320" />
+---
 
-</a>
-
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hou-dini&layout=compact&langs_count=10&card_width=320&theme=tokyonight" />
+</div>
