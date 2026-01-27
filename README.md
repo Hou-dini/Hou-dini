@@ -39,6 +39,10 @@ I am currently building a **Local Trade Reasoning Engine** that serves as a flag
 ### 🏆 Portfolio Highlight: Kognia AI
 **Kognia AI** is a hierarchical MAS framework for autonomous data synthesis and strategic evaluation. It serves as the core proof-of-concept for my Nexus-Specialist architecture.
 
+<p align="center">
+   <img src="https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/kognia_demo1.gif?raw=true"width="800"alt="Kognia Demo"/>
+</p>
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Kognia_AI-blue?style=for-the-badge&logo=vercel)](https://kognia-ui.vercel.app)
 ➡️ [**Source Code**](https://github.com/Hou-dini/kognia_backend)
 
