@@ -11,7 +11,7 @@ I transform manual strategies into autonomous multi-agent systems. With a backgr
 I don’t just build "AI wrappers." I architect **Hierarchical Multi-Agent Systems** that reason, plan, and execute. My core focus is solving the **fragility** of traditional algorithmic systems by applying modular task decomposition and adversarial risk-checking.
 
 **My Architectural Philosophy:**
-* **Decoupled Reasoning:** Utilizing the **Nexus-Specialist** pattern to prevent LLM hallucinations.
+* **Decoupled Reasoning:** Utilizing the **Nexus-Specialist** pattern to mitigate LLM hallucinations.
 * **Grounded Execution:** Ensuring every agentic decision is backed by verifiable real-time data.
 * **Adversarial Rigor:** Implementing "Red-Team" agents to stress-test trade theses before capital is deployed.
 
