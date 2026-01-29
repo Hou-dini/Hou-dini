@@ -50,7 +50,7 @@ I am currently building a **Local Trade Reasoning Engine** that serves as a flag
 
 ### 🛠️ The Agentic Stack
 
-* **Agentic Frameworks:** Google ADK (Agent Development Kit), Hierarchical Orchestration, A2A Communication Protocols.
+* **Agentic Frameworks:** Google ADK (Agent Development Kit), CrewAI, Hierarchical Orchestration, A2A Communication Protocols.
 * **Reasoning & Logic:** Structured Output (Pydantic), Tool-Use (Function Calling), RAG Architecture, Long-Context Memory Management.
 * **Data & Backend:** Python (`FastAPI`, `asyncio`, `pandas`, `numpy`), SQL (PostgreSQL), NoSQL (MongoDB), REST/WebSocket API Integration.
 * **Observability:** Agent Evaluation, Technical Documentation, Systems Thinking.
