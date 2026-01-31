@@ -65,7 +65,7 @@ I am currently engineering a **Local Trade Reasoning Engine** as a flagship demo
 
 * **Agentic Frameworks:** Google ADK, CrewAI, Hierarchical Orchestration, A2A Communication, MCP.
 * **Reasoning & RAG:** Weaviate, Structured Output (Pydantic), Tool-Use (Function Calling), Langfuse, Long-Context Memory Management.
-* **Data & Backend:** Python (`FastAPI`, `asyncio`, `pandas`, numpy), SQL (PostgreSQL), NoSQL (MongoDB), Docker, REST/WebSocket API Integration.
+* **Data & Backend:** Python (`FastAPI`, `asyncio`, `pandas`, numpy), Supabase (PostgreSQL), NoSQL (MongoDB), Render, Docker, REST/WebSocket API Integration.
 * **Observability:** Agent Evaluation, Technical Documentation, Systems Thinking.
 
 ---
