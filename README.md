@@ -53,7 +53,7 @@ I specialize in designing systems where specialized agents collaborate under a c
 
 I am currently engineering a **Local Trade Reasoning Engine** as a flagship demonstration of financial agentic frameworks.
 
-* **Orchestration:** Engineering complex delegation loops with **CrewAI**.
+* **Orchestration:** Engineering complex delegation loops with **Google ADK**.
 * **Memory & RAG:** Leveraging **Weaviate** for hybrid search and long-term agentic memory.
 * **Local Inference:** Optimizing **Qwen3-30B-MoE** models for high-performance local reasoning.
 * **Adversarial Logic:** Developing a **Risk Simulation Agent** to veto setups based on market regime shifts.
