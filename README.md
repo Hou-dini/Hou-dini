@@ -1,84 +1,125 @@
-# Hi there, I'm Eli! 👋
+# Hi, I'm Eli 👋
 
-### Applied AI Engineer | Agent Architect | Multi-Agent Systems (MAS) Specialist
+**Applied AI Engineer** focused on building production-oriented AI systems that automate real-world workflows.
 
-I transform complex manual workflows into autonomous multi-agent systems. With a background in **Software Engineering** and **Quantitative Analysis**, I bridge the gap between high-level reasoning and robust, production-ready AI orchestration.
-
----
-
-### 🚀 The Mission: Engineering Reliable Autonomy
-
-I don’t just build "AI wrappers." I architect **Hierarchical Multi-Agent Systems** that reason, plan, and execute. My core focus is solving the **fragility** of traditional LLM implementations by applying modular task decomposition, RAG-grounded execution, and adversarial risk-checking.
-
-**My Architectural Philosophy:**
-
-* **Decoupled Reasoning:** Utilizing the **Nexus-Specialist** pattern to mitigate LLM hallucinations.
-* **Grounded Execution:** Ensuring every agentic decision is backed by verifiable, real-time data ingestion.
-* **Adversarial Rigor:** Implementing "Red-Team" agents to stress-test system logic before deployment.
+I design and deploy multi-agent systems that move beyond prototypes into **reliable, task-oriented tools**.
 
 ---
 
-### 🏆 Portfolio Highlight: Kognia AI
+## 🚀 Featured Project: Project Mirror
 
-**Kognia AI** is a hierarchical MAS framework for autonomous research synthesis and strategic evaluation. It serves as the core proof-of-concept for my Nexus-Specialist architecture.
+**Project Mirror** is a multi-agent AI system designed to act as a professional assistant—handling tasks like information retrieval, scheduling, and technical reasoning through coordinated agent workflows.
+
+👉 It demonstrates how AI systems can operate in **real environments**, where outputs directly influence decisions and actions.
+
+### 🎬 Demo
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/kognia demo.gif?raw=true"width="750"alt="Kognia Demo"/>
+   <img src="https://raw.githubusercontent.com/Hou-dini/project-mirror-overview/main/agentic_portfolio_demo.gif?raw=true" width="750" alt="Project Mirror"/>
 </p>
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Kognia_AI-blue?style=for-the-badge&logo=vercel)](https://kognia-ui.vercel.app)
-➡️ [**Source Code**](https://github.com/Hou-dini/kognia_backend)
+*Short walkthrough demonstrating multi-agent coordination, task execution, and real workflow automation.*
+
+### 🔑 Key Capabilities
+- Multi-agent orchestration for complex task execution  
+- Retrieval-augmented reasoning (RAG) with strict context isolation  
+- Real-world tool integration (e.g., scheduling via APIs)  
+- Structured outputs and validation for reliability  
+- Observability into system behavior and failure modes  
+
+### 🧠 Why it matters
+Most AI projects demonstrate isolated capabilities.  
+Project Mirror focuses on **system reliability, coordination, and real usability**.
 
 ---
 
-#### 🧐🔎🤖 System Observability: Kognia AI
+## 🏗️ Architecture
 
-Below is a comprehensive log trace of the orchestration process. This "white-box" view provides key insights into the agentic lifecycle: agent handovers, tool invocations, and internal reasoning chains, facilitating deep debugging and system auditability.
+Project Mirror employs a hierarchical orchestration pattern where a high-reasoning "Nexus" agent manages a fleet of specialized sub-agents.
+
+```mermaid
+graph TD
+    User([User]) <--> Frontend[Next.js 16 / Tailwind CSS 4]
+    Frontend <--> API[FastAPI Backend]
+    
+    subgraph "MAS Orchestration (Google ADK)"
+        API <--> Nexus{Nexus Orchestrator<br/>Gemini 3.1 Flash-lite}
+        Nexus -- "Delegation / Handoff" --> Researcher[Researcher Agent<br/>Llama 3.3 70B]
+        Nexus -- "Delegation" --> TechLead[Technical Lead Agent<br/>Gemini 3 Flash]
+        Nexus -- "Delegation" --> DemoSpec[Demo Specialist<br/>Scenario Runner]
+        Nexus -- "Tool Call (MCP)" --> Scheduler[Scheduler Agent<br/>Google Calendar]
+    end
+
+    subgraph "Knowledge & Tools"
+        Researcher <--> VectorDB[(Weaviate Vector DB)]
+        Researcher <--> Search[Google Search API]
+        DemoSpec <--> MockData[(Isolated Demo Contexts)]
+        Scheduler <--> Calendar[(Google Calendar API)]
+    end
+
+    subgraph "Reliability Layer"
+        Nexus -.-> RedTeam[Adversarial Red-Team]
+        RedTeam -.-> Guardrails[Pydantic Validation]
+        Guardrails -.-> Nexus
+    end
+```
+---
+## Repository
+
+Project overview and supporting documentation:
+[https://github.com/Hou-dini/project-mirror-overview](https://github.com/Hou-dini/project-mirror-overview)
+
+---
+
+## 🧪 Additional Project: Kognia AI
+
+**Kognia AI** is a hierarchical multi-agent system for autonomous research synthesis and structured reasoning.
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/Kognia agent log trace.gif?raw=true"width="750"alt="Kognia AI System Observability"/>
+   <img src="https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/kognia demo.gif?raw=true" width="750" />
 </p>
 
----
+- Automated research workflows using agent coordination  
+- Real-time orchestration visibility and logging  
+- Structured reasoning pipelines for consistency  
 
-### 📊 Featured Architecture: The Nexus-Specialist Engine
-
-I specialize in designing systems where specialized agents collaborate under a central orchestrator. Below is the blueprint I use for **Autonomous Trade Reasoning**:
-
-![Nexus-Specialist Architecture](https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/Gemini_Generated_Image_s5h5las5h5las5h5.png) 
+➡️ [Source Code](https://github.com/Hou-dini/kognia_backend)
 
 ---
 
-### 🌱 Current Focus: The "Virtual Trading Desk"
+## ⚙️ What I Focus On
 
-I am currently engineering a **Local Trade Reasoning Engine** as a flagship demonstration of financial agentic frameworks.
-
-* **Orchestration:** Engineering complex delegation loops with **Google ADK**.
-* **Memory & RAG:** Leveraging **Weaviate** for hybrid search and long-term agentic memory.
-* **Local Inference:** Optimizing **Qwen3-30B-MoE** models for high-performance local reasoning.
-* **Adversarial Logic:** Developing a **Risk Simulation Agent** to veto setups based on market regime shifts.
-* **Observability:** Implementing deep-trace logging to audit agentic "thought processes" in real-time.
+- Designing **multi-agent systems** that handle real tasks  
+- Improving **LLM reliability** through validation and grounding  
+- Building systems that balance **latency, cost, and accuracy**  
+- Turning complex workflows into **usable AI tools**  
 
 ---
 
-### 🛠️ The Agentic Stack
+## 🛠️ Tech Stack
 
-* **Agentic Frameworks:** Google ADK, CrewAI, Hierarchical Orchestration, A2A Communication, MCP.
-* **Reasoning & RAG:** Weaviate, Structured Output (Pydantic), Tool-Use (Function Calling), Langfuse, Long-Context Memory Management.
-* **Data & Backend:** Python (`FastAPI`, `asyncio`, `pandas`, numpy), Supabase (PostgreSQL), NoSQL (MongoDB), Render, Docker, REST/WebSocket API Integration.
-* **Observability:** Agent Evaluation, Technical Documentation, Systems Thinking.
+**AI / Systems**
+- Multi-agent orchestration (Google ADK, MCP)  
+- RAG systems (Weaviate, structured outputs)  
+- Model routing and evaluation  
+
+**Backend**
+- Python (FastAPI, asyncio)  
+- REST APIs, microservices  
+
+**Data**
+- PostgreSQL, MongoDB  
+- Vector databases (Weaviate)  
+
+**Infra**
+- Docker, CI/CD (GitHub Actions)  
+- Cloud deployment (GCP, Vercel)  
 
 ---
 
-### ⚡ Contact & Collaboration
+## 📫 Contact
 
-I am open to collaborating on **Applied AI** and **Agentic Orchestration** projects or building bespoke autonomous workflows.
-
-📫 **Email:** elikplimkudowor@gmail.com
-🔗 **LinkedIn:** [linkedin.com/in/elikplim-kudowor](https://www.google.com/search?q=https://www.linkedin.com/in/elikplim-kudowor)
+- Email: elikplimkudowor@gmail.com  
+- LinkedIn: https://linkedin.com/in/elikplim-kudowor  
 
 ---
-
-<div align="center">
-<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs?username=Hou-dini&layout=compact&langs_count=10&card_width=320&theme=tokyonight](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs%3Fusername%3DHou-dini%26layout%3Dcompact%26langs_count%3D10%26card_width%3D320%26theme%3Dtokyonight)" />
-</div>
