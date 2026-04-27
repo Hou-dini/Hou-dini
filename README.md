@@ -8,7 +8,7 @@ I design and deploy multi-agent systems that move beyond prototypes into **relia
 
 ## 🚀 Featured Project: Project Mirror
 
-**Project Mirror** is a multi-agent AI system designed to act as a professional assistant—handling tasks like information retrieval, scheduling, and technical reasoning through coordinated agent workflows.
+**Project Mirror** is a multi-agent AI system designed to act as a professional representative—handling tasks like information retrieval, scheduling, and technical reasoning through coordinated agent workflows.
 
 👉 It demonstrates how AI systems can operate in **real environments**, where outputs directly influence decisions and actions.
 
