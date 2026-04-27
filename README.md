@@ -44,9 +44,9 @@ graph TD
     
     subgraph "MAS Orchestration (Google ADK)"
         API <--> Nexus{Nexus Orchestrator<br/>Gemini 3.1 Flash-lite}
-        Nexus -- "Delegation / Handoff" --> Researcher[Researcher Agent<br/>Llama 3.3 70B]
+        Nexus -- "Delegation" --> Researcher[Researcher Agent<br/>Llama 3.3 70B]
         Nexus -- "Delegation" --> TechLead[Technical Lead Agent<br/>Gemini 3 Flash]
-        Nexus -- "Delegation" --> DemoSpec[Demo Specialist<br/>Scenario Runner]
+        Nexus -- "Handoff" --> DemoSpec[Demo Specialist<br/>Scenario Runner]
         Nexus -- "Tool Call (MCP)" --> Scheduler[Scheduler Agent<br/>Google Calendar]
     end
 
