@@ -79,7 +79,7 @@ Project overview and supporting documentation:
    <img src="https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/kognia demo.gif?raw=true" width="750" />
 </p>
 
-- Automated research workflows using agent coordination  
+- Automated research and analysis workflows using agent coordination  
 - Real-time orchestration visibility and logging  
 - Structured reasoning pipelines for consistency  
 
