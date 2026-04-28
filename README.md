@@ -73,7 +73,7 @@ Project overview and supporting documentation:
 
 ## 🧪 Additional Project: Kognia AI
 
-**Kognia AI** is a hierarchical multi-agent system for autonomous research synthesis and structured reasoning.
+**Kognia AI** is a hierarchical multi-agent system for autonomous research synthesis, strategic analysis, and report generation.
 
 <p align="center">
    <img src="https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/kognia demo.gif?raw=true" width="750" />
