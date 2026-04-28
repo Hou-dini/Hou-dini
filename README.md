@@ -8,7 +8,7 @@ I design and deploy multi-agent systems that move beyond prototypes into **relia
 
 ## 🚀 Featured Project: Project Mirror
 
-**Project Mirror** is a multi-agent AI system designed to act as a professional representative—handling tasks like information retrieval, scheduling, and technical reasoning through coordinated agent workflows.
+**Project Mirror** is a multi-agent AI system designed to act as a professional assistant—handling tasks like information retrieval, scheduling, and technical reasoning through coordinated agent workflows.
 
 👉 It demonstrates how AI systems can operate in **real environments**, where outputs directly influence decisions and actions.
 
@@ -41,25 +41,26 @@ Project Mirror employs a hierarchical orchestration pattern where a high-reasoni
 graph TD
     User([User]) <--> Frontend[Next.js 16 / Tailwind CSS 4]
     Frontend <--> API[FastAPI Backend]
-    
+
     subgraph "MAS Orchestration (Google ADK)"
         API <--> Nexus{Nexus Orchestrator<br/>Gemini 3.1 Flash-lite}
-        Nexus -- "Delegation" --> Researcher[Researcher Agent<br/>Llama 3.3 70B]
-        Nexus -- "Handoff" --> DemoSpec[Demo Specialist<br/>Scenario Runner]
-        Nexus -- "Tool Call (MCP)" --> Scheduler[Scheduler Agent<br/>Google Calendar]
+        Nexus -- "Control Handoff" --> DemoSpec[Demo Specialist<br/>Llama 3.3 70B]
+        Nexus -- "Tool Call" --> Researcher[Researcher Agent<br/>Llama 3.3 70B]
+        Nexus -- "Tool Call (MCP)" --> Calendar[Google Calendar / Meet]
     end
 
     subgraph "Knowledge & Tools"
-        Researcher <--> VectorDB[(Weaviate Vector DB)]
+        Researcher <--> VectorDB[(Weaviate Augmented DB)]
         Researcher <--> Search[Google Search API]
         DemoSpec <--> MockData[(Isolated Demo Contexts)]
-        Scheduler <--> Calendar[(Google Calendar API)]
+        Calendar <--> GoogleAPI[(Google APIs)]
     end
 
-    subgraph "Reliability Layer"
+    subgraph "Reliability & Privacy"
         Nexus -.-> RedTeam[Adversarial Red-Team]
         RedTeam -.-> Guardrails[Pydantic Validation]
         Guardrails -.-> Nexus
+        API -.-> Fingerprint[SHA-256 Fingerprinting]
     end
 ```
 ---
