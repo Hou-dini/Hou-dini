@@ -15,7 +15,7 @@ I design and deploy multi-agent systems that move beyond prototypes into **relia
 ### 🎬 Demo
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Hou-dini/project-mirror-overview/main/agentic_portfolio_demo.gif?raw=true" width="750" alt="Project Mirror"/>
+   <img src="https://raw.githubusercontent.com/Hou-dini/project-mirror-overview/main/project_mirror_gif_compressed.gif?raw=true" width="750" alt="Project Mirror"/>
 </p>
 
 *Short walkthrough demonstrating multi-agent coordination, task execution, and real workflow automation.*
