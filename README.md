@@ -131,7 +131,7 @@ graph TD
 - Real-time orchestration visibility and logging  
 - Structured reasoning pipelines for consistency  
 
-➡️ [Source Code](https://github.com/Hou-dini/kognia_backend)
+➡️ [Repository Link](https://github.com/Hou-dini/kognia_backend)
 
 ---
 
