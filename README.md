@@ -15,7 +15,7 @@ I design and deploy multi-agent systems that move beyond prototypes into **relia
 ### 🎬 Demo
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Hou-dini/sentinel-flood-watch/main/sentinel_flood_watch_demo.gif" width="750" alt="Sentinel Flood-Watch Demo"/>
+   <img src="https://raw.githubusercontent.com/Hou-dini/Hou-dini/main/sentinel_flood_watch_demo.gif" width="750" alt="Sentinel Flood-Watch Demo"/>
 </p>
 
 *Walkthrough showing remote sensing index comparisons (NDVI/MNDWI), ReAct agent reasoning stream, geocoding grounding, and dashboard operations.*
